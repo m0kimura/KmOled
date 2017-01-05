@@ -1,4 +1,4 @@
-# KmOled
+# KmOled Adafruit OLEDデバイス操作
 
   #include <ESP_SSD1306.h>
   #include <Adafruit_GFX.h>
